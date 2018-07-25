@@ -473,7 +473,7 @@ suite = {
       "native" : True,
       "description" : "Graal.js support distribution for the GraalVM",
       "layout" : {
-        "native-image.properties": "file:mx.graal-js/native-image.properties",
+        "native-image.properties": "file:mx.graal-js\\native-image.properties",
         "./": "file:README.md",
       },
     },
